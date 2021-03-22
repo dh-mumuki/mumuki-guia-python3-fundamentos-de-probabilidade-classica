@@ -1,0 +1,1 @@
+Se a probabilidade de chover hoje é de 30%, qual é a probabilidade de **não** chover?
